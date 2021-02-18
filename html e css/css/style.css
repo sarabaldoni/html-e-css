@@ -1,0 +1,25 @@
+body {background-color: #2F2F2F;
+  margin-bottom: 50px;
+}
+
+h2{
+  margin-top: 90px;
+  color: #ffffff;
+}
+p{
+  padding-bottom: 40px;
+  padding-top: 40px;
+  color: #ffffff;
+}
+h3{
+  padding-top: 60px;
+  color: #ffffff;
+}
+a {
+  text-decoration: none;
+  color: #ffffff
+}
+  a:hover
+  {
+    color: #dc3545;;
+  }
